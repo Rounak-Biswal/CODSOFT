@@ -1,0 +1,57 @@
+@import "../../variables.css";
+
+.container{
+    padding: 3rem 0;
+    background-color: var(--color-secondary);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 100px;
+}
+
+.title{
+    text-align: center;
+    font-size: 3.5rem;
+    margin: 5px 0 15px 0;
+    font-family: var(--font-outfit);
+    font-weight: 900;
+}
+
+.texts{
+    width: 50%;
+    text-align: center;
+}
+
+.text{
+    font-size: 2rem;
+}
+
+.links{
+    padding: 0 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 50%;
+    height: 80%;
+}
+
+.link{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 1.5rem;
+    gap: 20px;
+}
+
+.link a{
+    text-decoration: none;
+    color: var(--color-text);
+}
+
+@media screen and (max-width:830px) {
+    .container{
+        flex-direction: column;
+    }
+    .links{
+        width: 100vw;
+    }
+}

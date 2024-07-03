@@ -1,0 +1,44 @@
+[
+    {
+        "title":"Simon-says Game",
+        "image":"../assets/projects/4.jpg",
+        "source":"https://github.com/Rounak-Biswal/Simon-Says-Game",
+        "live":"https://rounak-biswal.github.io/Simon-Says-Game/",
+        "skills":["Javascript","CSS","HTML"]
+    },
+    {
+        "title":"Task Tracker",
+        "image":"../assets/projects/2.jpg",
+        "source":"https://github.com/Rounak-Biswal/React-Task-Tracker",
+        "live":"",
+        "skills":["React","Javascript","CSS-modules"]
+    },
+    {
+        "title":"Analog Clock",
+        "image":"../assets/projects/5.jpg",
+        "source":"https://github.com/Rounak-Biswal/Analog-Clock",
+        "live":"https://rounak-biswal.github.io/Analog-Clock/clock.html",
+        "skills":["Javascript","CSS","HTML"]
+    },
+    {
+        "title":"Simple-chat App",
+        "image":"../assets/projects/1.jpg",
+        "source":"https://github.com/Rounak-Biswal/whatsapp-mini",
+        "live":"",
+        "skills":["Express","MongoDB","EJS"]
+    },
+    {
+        "title":"Blog App",
+        "image":"../assets/projects/3.jpg",
+        "source":"https://gitub.com/Rounak-Biswal/Quora-clone",
+        "live":"",
+        "skills":["Express","MySQL","EJS"]
+    },
+    {
+        "title":"Amazon Landing Page",
+        "image":"../assets/projects/6.jpg",
+        "source":"https://github.com/Rounak-Biswal/Amazon-clone",
+        "live":"https://github.com/Rounak-Biswal/Amazon-clone/home.html",
+        "skills":["Javascript","CSS","HTML"]
+    }
+]

@@ -1,0 +1,115 @@
+@import "../../variables.css";
+
+.about{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    margin: 40px;
+    padding: 30px 10px;
+    border-radius: 35px;
+    scroll-behavior: smooth;
+}
+
+.education{
+    width: 45%;
+}
+
+.skills{
+    width: 40%;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+.icon{
+    padding: 10px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--color-dark);
+    box-shadow: 0 0 15px 0 var(--color-dark);
+}
+.icon img{
+    width: 40px;
+    height: 40px;
+}
+.heading{
+    text-align: center;
+    font-size: 2.2rem;
+    margin: 5px 0 15px 0;
+}
+
+.details{
+    text-align: center;
+    font-family: var(--font-roboto);
+    font-size: 15px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.items span{
+    font-weight: bold;
+}
+.items{
+    margin: 10px;
+    font-size: 25px;
+}
+
+.row1, .row2, .row3{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+}
+
+.skill{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.skill p{
+    font-family: var(--font-roboto);
+    font-weight: 600;
+}
+
+.skillImg{
+    background: var(--color-secondary);
+    border-radius: 100%;
+    width: 120px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skillImg img{
+    width: 80px;
+}
+
+.institution{
+    margin: 5px;
+    font-weight: bolder;
+}
+
+@media screen and (max-width:830px) {
+    .about{
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+    }
+
+    .education{
+        width: 100%;
+    }
+    
+    .skills{
+        width: 100%;
+    }
+}

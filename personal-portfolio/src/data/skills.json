@@ -1,0 +1,36 @@
+[
+    {
+        "title" : "HTML",
+        "imgSrc" : "../assets/skills/html.png"
+    },{
+        "title" : "CSS",
+        "imgSrc" : "../assets/skills/css.png"
+    },{
+        "title" : "Javascript",
+        "imgSrc" : "../assets/skills/js.png"
+    },
+    {
+        "title" : "Figma",
+        "imgSrc" : "../assets/skills/figma.png"
+    },
+    {
+        "title" : "Taiwind",
+        "imgSrc" : "../assets/skills/tailwind.png"
+    },
+    {
+        "title" : "ReactJS",
+        "imgSrc" : "../assets/skills/react.png"
+    },
+    {
+        "title" : "MySQL",
+        "imgSrc" : "../assets/skills/mysql.png"
+    },
+    {
+        "title" : "MongoDB",
+        "imgSrc" : "../assets/skills/mongodb.png"
+    },
+    {
+        "title" : "NodeJS",
+        "imgSrc" : "../assets/skills/node.png"
+    }
+]
