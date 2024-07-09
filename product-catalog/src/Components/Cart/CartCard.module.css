@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: rgb(219, 219, 242);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.image{
+    width: 50px;
+    margin: 0;
+}
+.removeBtn{
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+}
+.title{
+    font-size: 12px;
+    margin: 0;
+}

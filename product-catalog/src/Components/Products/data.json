@@ -1,0 +1,42 @@
+[
+    {
+        "title":"Hertford Upholstered Chair",
+        "image":"./src/assets/images/1.png",
+        "price":101
+    },
+    {
+        "title":"Abingdon Upholstered Swivel Chair",
+        "image":"./src/assets/images/2.png",
+        "price":151
+    },
+    {
+        "title":"Jeses Minimore Modern Style Etta",
+        "image":"./src/assets/images/3.png",
+        "price":181
+    },
+    {
+        "title":"JJeses Minimore Modern Style Etta",
+        "image":"./src/assets/images/4.png",
+        "price":201
+    },
+    {
+        "title":"Bolanle Upholsted Armchair",
+        "image":"./src/assets/images/5.png",
+        "price":251
+    },
+    {
+        "title":"Jaqueze Upholsted Armchair",
+        "image":"./src/assets/images/6.png",
+        "price":111
+    },
+    {
+        "title":"Leston Wide Upholsted Fabric",
+        "image":"./src/assets/images/7.png",
+        "price":121
+    },
+    {
+        "title":"Stephanny 27.5\" Wide Tufted",
+        "image":"./src/assets/images/8.png",
+        "price":221
+    }
+]

@@ -1,0 +1,13 @@
+*{
+    margin: 10px;
+}
+.sub_container{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(238, 236, 236);
+}
